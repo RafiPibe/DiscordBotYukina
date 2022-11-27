@@ -1,0 +1,16 @@
+{
+  "name": "yukinareborn",
+  "version": "1.0.0",
+  "description": "YukinaReborn",
+  "main": "yukina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pibe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.9.1"
+  }
+}
